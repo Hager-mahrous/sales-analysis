@@ -1,4 +1,5 @@
-# sales-analysis
+# sales-analysis :  use time series analysis to find the hidden patteren in data
+
 the question we anwer about it in this report ?
 Q1:
 what is hidden pattren in the data ?
@@ -42,6 +43,8 @@ Product and profit
 use cohort analysis and CLTV analysis 
 
 # technology:
+time series analysis 
+
 python
 
 stsatitistics
@@ -49,3 +52,4 @@ stsatitistics
 probability
 
 seasonal analysis 
+
